@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=DZGEN
+Encoding=UTF-8
+Exec=sh -c "DZGEN;${SHELL:-bash}"
+Icon=kali-DZGEN.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=08-exploitation-tools;
+X-Kali-Package=DZGEN
