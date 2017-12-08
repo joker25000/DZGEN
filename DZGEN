@@ -146,7 +146,7 @@ sleep 1
 fi
 clear
 echo -e "\e[1;32m            -----------------------------------------"
-echo -e "          < ! DZEN-Framework RUning KALI LINUX TOOLS ! >"
+echo -e "          < ! DZGEN-Framework RUning KALI LINUX TOOLS ! >"
 echo -e "            ----------------------------------------- "
 echo -e "████████▄   ▄███████▄     ▄██████▄     ▄████████ ███▄▄▄▄  "
 echo -e "███   ▀███ ██▀     ▄██   ███    ███   ███    ███ ███▀▀▀██▄  "
