@@ -1,6 +1,3 @@
-
-<img src="https://i.imgur.com/JAXQmv0.png" width="23%"></img>
-## ★ DZGEN v0.1
 <img src="https://i.imgur.com/JAXQmv0.png" title="DZGEN V0.1">
 
 Author: joker-security [ dev-labs ]
