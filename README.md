@@ -1,5 +1,5 @@
 
-# DZGEN V0.1
+## ★ DZGEN V0.1
 
 Author: joker-security [ dev-labs ]
 
