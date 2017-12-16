@@ -31,7 +31,7 @@ DZGEN
 
 ## ★ video tutorial:
 
-https://www.youtube.com/watch?v=dAgB3PI75IQ&t=6s
+[![ DZGEN - Works with Kali Linux tools ](https://i.ytimg.com/vi/dAgB3PI75IQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dAgB3PI75IQ&t=6s)
 
 ## ★ About:
 
