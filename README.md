@@ -47,4 +47,4 @@ DZGEN
 
 ● FACE Pg : https://facebook.com/kali.linux.pentesting.tutorials
 
-● Tested On : KALI-LINUX / lxle-Linux
+● Tested On : Parrot Os / KALI-LINUX / lxle-Linux
