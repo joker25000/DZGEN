@@ -3,7 +3,7 @@
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Mint,Parrot-blue.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
-##  ★  🏗 DZGEN V1.0
+##  ★  🏗 DZGEN V1.0 | <img src="https://img.shields.io/badge/i-DZGEN-red.svg">
 
 Author: joker-security [ dev-labs ]
 
