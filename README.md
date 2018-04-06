@@ -1,4 +1,3 @@
-![pic1](https://i.imgur.com/j3tqsJE.png)
 ##  ★  🏗 DZGEN V1.0 | <img src="https://img.shields.io/badge/i-DZGEN-green.svg">
 [![Version](https://img.shields.io/badge/DZGEN-v1.0-brightgreen.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
