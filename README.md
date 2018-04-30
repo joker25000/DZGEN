@@ -38,8 +38,6 @@ DZGEN
 
 ## ★ About:
 
-● WEBSITE : http://dev-labs.co
-
 ● TWITTER : https://twitter.com/SecurityJoker
 
 ● YOUTUBE : https://www.youtube.com/c/Professionalhacker25
